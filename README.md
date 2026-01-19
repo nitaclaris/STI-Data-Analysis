@@ -1,4 +1,4 @@
-# STI Project Dataset Analysis
+# STI Project Dataset Analysis and Visualization
 This project is about data manipulation and cleaning.
 Key activities included comprehensive data cleaning, verification, and preliminary statistical analysis. Missing values were systematically identified and addressed using source documents for data verification. Variables with multiple categories were cleaned and appropriately collapsed to improve analytical interpretability and statistical validity.
 
